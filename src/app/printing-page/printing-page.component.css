@@ -1,0 +1,9 @@
+#imgSection{
+    width: 74%;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+#imgSection img {
+    width: 25%;
+}
